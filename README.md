@@ -56,7 +56,3 @@ Pruebas sugeridas en Swagger: consultar ambas listas y los recursos por Id; crea
 ## Evidencia de ejecución
 
 La interfaz Swagger está disponible en `/swagger` al iniciar el proyecto. Los ejemplos anteriores describen los casos a ejecutar y los estados HTTP esperados; la captura de evidencias debe tomarse desde Swagger después de configurar una instancia SQL Server accesible.
-
-## GitHub
-
-No se configuró un remoto GitHub en este workspace. Después de crear el repositorio, publica la carpeta `ProductosAPI` y agrega aquí su enlace.
